@@ -4,3 +4,6 @@ plots/
 .venv/
 
 *.ipynb_checkpoints
+
+gtd_eda.pdf
+
